@@ -190,3 +190,71 @@ main section {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+footer {
+    padding: 110px 0;
+    background-color: #23272a;
+    color: white;
+}
+.footer-menus {
+    border-bottom: 1px solid #7289da;
+}
+.socials {
+    width: 30%;
+}
+.footer-single-menu {
+    width: 17.5%;
+}
+
+/* Socials */
+footer h4 {
+    font-size: 30px;
+    color: #7289da;
+}
+.languages {
+    margin: 25px 0;
+}
+.languages > * {
+    display: inline-block;
+    vertical-align: middle;
+}
+.flag {
+    width: 30px;
+}
+.social-links li {
+    display: inline-block;
+    margin-right: 20px;
+}
+.social-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+/* Single menu */
+.footer-single-menu h5 {
+    font-size: 18px;
+    color: #7289da;
+    margin-bottom: 10px;
+}
+.footer-single-menu li {
+    margin-bottom: 20px;
+    font-size: 10px;
+}
+.footer-single-menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Footer bottom */
+.footer-bottom {
+    margin-top: 20px;
+}
+.footer-logo,
+.register {
+    width: 70px;
+}
+.register {
+    float: right;
+}
